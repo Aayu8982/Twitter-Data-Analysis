@@ -1,2 +1,2 @@
 # Twitter-Data-Analysis
-This Web Based Application of “Twitter Sentimental Analysis” is a platform of various information for Twitter. With the help of “Twitter Data analysis”, we can analysis tweets (most retweeted, finding relevant topics, finding hashtags. Number of tweets, geographical location).
+To help the organizations, in this project, we will collect some of the stats like most influential followers, top 5 tweets, type of engagement, tweet like rate, top 5 sharers, popularity of tweets etc, based on hashtag or twitter handle provided by the user. We Analyze these stats and predict results.
